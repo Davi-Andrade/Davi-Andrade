@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil no GitHub!
 ---
 
 ![snake gif](https://github.com/Davi-Andrade/Davi-Andrade/blob/output/github-contribution-grid-snake.svg)
-
+![snake animarion](https://github.com/Davi-Andrade/Davi-Andrade/blob/output/github-contribuition-grid-snake.svg)
 <!--
 ⭐️ Repositórios em destaque:
 - [🔗 Projeto Exemplo 1](https://github.com/SEU_USUARIO/projeto1)
